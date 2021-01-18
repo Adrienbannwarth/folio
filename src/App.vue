@@ -19,7 +19,6 @@
     <div class="border border-right"></div>
   </div>
 </template>
-
 <script>
 export default {
   name: "App",
